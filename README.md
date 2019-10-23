@@ -1,2 +1,2 @@
 # Time-it
-Android Application
+My First Android Application
